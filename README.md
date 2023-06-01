@@ -1,0 +1,1 @@
+### Singleton tread-safe logger in C++
